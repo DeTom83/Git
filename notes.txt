@@ -1,0 +1,1 @@
+This is hidde file for git.
